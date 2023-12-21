@@ -3,8 +3,8 @@
 =======================
 
 Shipped With Atomix-Kernel with KernelSU Version
-Synced with latest Evox Sources
-Added Custom OTA Url
+Synced with latest Evolution X sources
+Added custom OTA url
 
 Notes:
 If you updated from previusly build 12/14/23 you need clear cache and storage of System Update app
