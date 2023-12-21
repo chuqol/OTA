@@ -1,2 +1,3 @@
+Initial release
 Switched to custom OTA URL
 Source updated (Play Integrity fix, Pixel Launcher by default, QPR1 & December SP Merged etc...)
