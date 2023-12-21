@@ -1,0 +1,10 @@
+=======================
+     2023/12/21
+=======================
+
+Shipped With Atomix-Kernel with KernelSU Version
+Synced with latest Evox Sources
+Added Custom OTA Url
+
+Notes:
+If you updated from previusly build 12/14/23 you need clear cache and storage of System Update app
