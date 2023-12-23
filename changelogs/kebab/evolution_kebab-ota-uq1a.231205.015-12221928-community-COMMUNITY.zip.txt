@@ -1,2 +1,0 @@
-Possibly fix of alert slider 
-Source updated and stability improved
