@@ -1,1 +1,9 @@
-No other changes
+Fixed Alert slider
+Synced with latest evox sources
+====================================================================
+Source Changelogs 
+kebab: Mount erofs system, system_ext & product images 
+sm8250-common: Build erofs system, system_ext & product images
+sepolicy: qti: Allow system_server to r/w oplus_chg nodes 
+Updated required firmware OOS13 (13.1.0.582)
+other improvements...
