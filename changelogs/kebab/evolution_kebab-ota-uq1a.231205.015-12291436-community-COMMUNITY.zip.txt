@@ -1,6 +1,6 @@
 Fixed Alert slider
 Synced with latest evox sources
-====================================================================
+=====================================
 Source Changelogs 
 kebab: Mount erofs system, system_ext & product images 
 sm8250-common: Build erofs system, system_ext & product images
