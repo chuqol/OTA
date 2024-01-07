@@ -1,0 +1,13 @@
+=======================
+   Source Changelogs
+=======================
+Synced with latest EvolutionX Sources
+Merge with January SP
+Other Improvements...
+
+=======================
+   Device Changelogs
+=======================
+Added new OPlus Extras icon
+Added Per-app refresh rate
+Doze: Adapted to Android 14

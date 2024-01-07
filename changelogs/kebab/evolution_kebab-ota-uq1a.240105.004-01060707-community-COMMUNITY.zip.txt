@@ -1,6 +1,0 @@
-=======================
-   Source Changelogs
-=======================
-Synced with latest EvolutionX Sources
-Merge with January SP
-Other Improvements...
