@@ -1,0 +1,24 @@
+=======================
+     2024/02/09
+=======================
+
+February 2024 Security update
+
+Device specific changes:
+sm8250-common: Unlock VoLTE and VoWIFI for more carriers
+sm8250-common: Import missing libs for OMX_VPP 
+
+Rom side feature additions:
+Bring back custom UDFPS animations.
+Bring back expanded volume panel.
+Add dynamic VoLTE & VoWiFi icons.
+Add AlarmsBlocker.
+Add WakelockBlocker.
+Add option to vibrate on scroll flings.
+Add Advanced navigation "extended/L" gestures.
+
+Misc:
+Fix biometric auth view misalignment.
+Enable burn in detection by default.
+Enable pulsing animation for faceunlock.
+Various miscellaneous SystemUI, Evolver and Settings fixes/improvements.
