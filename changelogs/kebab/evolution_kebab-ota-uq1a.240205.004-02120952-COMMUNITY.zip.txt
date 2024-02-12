@@ -1,0 +1,13 @@
+=======================
+     2024/02/12
+=======================
+
+HOTFIX Changes:
+
+Fixed WhatsApp crash issue
+
+Misc:
+
+Synced with latest EvolutionX sources
+Added Gemini support
+Other improvments...
